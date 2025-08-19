@@ -12,4 +12,6 @@ https://github.com/JeoJay127/OCLP-X/releases
 
 已去三码 自行添加
 
+网盘下载：https://pan.quark.cn/s/cba74eb0bb07
+
 ![示例图片](/2025-08-19.png)
